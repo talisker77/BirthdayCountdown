@@ -14,6 +14,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#jsx build folder
+www/js/.module-cache/*
+
+#platform folder
+platforms/*
+bower_components/**/*
+
 # Windows shortcuts
 *.lnk
 
@@ -41,3 +48,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.d
