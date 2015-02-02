@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lottery-draw
 ============
 
@@ -12,3 +13,7 @@ TODO:
 * get needed plugins  (cordova plugin add ...)
 * build
 
+=======
+# BirthdayCountdown
+Simple birthday event countdown app.
+>>>>>>> origin/master
