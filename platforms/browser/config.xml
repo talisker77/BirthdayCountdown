@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="no.foldnesgutten.birthdayCountdown" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Birthday Countdown</name>
+    <description>
+        Birthday countdown app
+    </description>
+    <author email="erlend.torsvik@gmail.com" href="https://github.com/talisker77">
+        Foldnesgutten
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="www/img/logo.png" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+</widget>
